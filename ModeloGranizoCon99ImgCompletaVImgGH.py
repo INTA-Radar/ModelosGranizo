@@ -4,6 +4,7 @@
 #  Autores: Yanina Bellini Saibene
 
 # Genera las imagenes con la clasificación de regresion logística
+#TODO: tomar los archivos a procesar por parámetro
 
 from identify import Identify
 
